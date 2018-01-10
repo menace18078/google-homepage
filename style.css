@@ -4,7 +4,7 @@
   width: 2.5em;
   height: 1.5em;
 }
-ul.left {
+ul.top-left {
 	list-style-type: none;
     margin: 0;
     padding: 0;
@@ -13,7 +13,7 @@ ul.left {
     float: left;
 }
 
-li.left {
+li.top-left {
 	float: left;
 }
 
@@ -25,7 +25,7 @@ li a {
     text-decoration: none;
 }
 
-ul.right {
+ul.top-right {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -33,7 +33,7 @@ ul.right {
 	background-color: white;
 }
 
-li.right {
+li.top-right {
 	float: right;
 }
 
@@ -67,7 +67,7 @@ ul.bottom-left {
     float: left;
 }
 
-li {
+li.bottom-left {
 	float: left;
 }
 
