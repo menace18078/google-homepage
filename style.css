@@ -1,7 +1,8 @@
 #google_logo {
   display: block;
   margin: auto;
-  width: 55%;
+  width: 2.5em;
+  height: 1.5em;
 }
 ul.left {
 	list-style-type: none;
