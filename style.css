@@ -1,8 +1,9 @@
 #google_logo {
-  display: block;
-  margin: auto;
-  width: 2.5em;
-  height: 1.5em;
+  margin: 0 auto;
+  background-image: url('https://www.google.ca/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png');
+  background-size: 272px 92px;
+  width: 272px;
+  height: 92px;
 }
 ul.top-left {
 	list-style-type: none;
