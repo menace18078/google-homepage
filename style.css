@@ -1,6 +1,7 @@
 #google_logo {
   display: block;
   margin: auto;
+  width: 55%;
 }
 ul.left {
 	list-style-type: none;
@@ -33,12 +34,6 @@ ul.right {
 
 li.right {
 	float: right;
-}
-
-img {
-    display: block;
-    margin: auto;
-    width: 55%;
 }
 
 div.form {
